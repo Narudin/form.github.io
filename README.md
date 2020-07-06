@@ -1,4 +1,4 @@
-# form.github.io
+# https://narudin.github.io/form.github.io/
 ## version 0.0.1
 ### Тестовый проект по регулярным выражениям
 ### Тренировочный проект, валидирует поля формы
